@@ -538,6 +538,42 @@
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
                 </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>x86_64</string>
+                    <key>BundlePath</key>
+                    <string>AirPortAtheros40.kext</string>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true />
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/AirPortAtheros40</string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>x86_64</string>
+                    <key>BundlePath</key>
+                    <string>HS80211Family.kext</string>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true />
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/HS80211Family</string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
             </array>
             <key>Block</key>
             <array>
@@ -906,7 +942,7 @@
                 <key>SysReport</key>
                 <false />
                 <key>Target</key>
-                <integer>67</integer>
+                <integer>3</integer>
             </dict>
             <key>Entries</key>
             <array>
@@ -1090,7 +1126,7 @@
                 <key>AdviseWindows</key>
                 <false />
                 <key>MLB</key>
-                <string>C02540501QXFH311M</string>
+                <string>C023436004NFH31FB</string>
                 <key>MaxBIOSVersion</key>
                 <false />
                 <key>ProcessorType</key>
@@ -1104,9 +1140,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro11,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02QHLZEFH00</string>
+                <string>C02LLAYLFH00</string>
                 <key>SystemUUID</key>
-                <string>AFD30D76-595D-4EC3-9979-921C1A1639AB</string>
+                <string>3F6C8862-6A8A-4A25-B382-671A0AB91F51</string>
             </dict>
             <key>UpdateDataHub</key>
             <true />
